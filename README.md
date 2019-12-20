@@ -1,4 +1,4 @@
-# A_Letter_To_ReadCube_and_Papers
+# A Letter To ReadCube and Papers
 list of feature requests for ReadCube and Papers
 
 Great work with Papers! I have a few feature requests:
