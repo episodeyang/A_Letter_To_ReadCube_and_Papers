@@ -10,5 +10,6 @@ Great work with Papers! I have a few feature requests:
 5. Closing the app should not kill all of the PDF tabs
 6. in the search page, there is no way to go back to previous search. Would be good to have tags, or a history button.
 7. The chrome browser plug-in does not sign-in on the first open. Have to refresh.
+8. Better support for webpages: chrome plug in need to be able to add abtrary web page. Entries need to show webpage preview.
 
 The UX needs to go through a full audit. There are many places where it is not smooth.
