@@ -8,3 +8,4 @@ Great work with Papers! I have a few feature requests:
 3. The embedded PDF viewer does not have a history "back" button. This adds cost in jumping to references, because I can not jump back to where I was.
 4. <kbd>⌘</kbd> + A does not work in the search bar. This means I have to delete the line using backspace.
 5. Closing the app should not kill all of the PDF tabs
+6. in the search page, there is no way to go back to previous search. Would be good to have tags, or a history button.
