@@ -9,3 +9,6 @@ Great work with Papers! I have a few feature requests:
 4. <kbd>⌘</kbd> + A does not work in the search bar. This means I have to delete the line using backspace.
 5. Closing the app should not kill all of the PDF tabs
 6. in the search page, there is no way to go back to previous search. Would be good to have tags, or a history button.
+7. The chrome browser plug-in does not sign-in on the first open. Have to refresh.
+
+The UX needs to go through a full audit. There are many places where it is not smooth.
