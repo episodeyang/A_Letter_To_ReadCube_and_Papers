@@ -15,5 +15,6 @@ Great work with Papers! I have a few feature requests:
 10. As soon as someone has a large number of files, he or she would wnat to be able to search. The current search is non-existent. I expect to be able to search "this raises the question" and get a list of hits on the left, with the PDF view focused on those highlights on the right. People pay $50 for this type of functionalities. I am currently using this app: [PDF Search on AppStore](https://apps.apple.com/us/app/pdf-search/id1303227688)
 11. When exporting the bibliography, make it possible to copy directly from the app. Most of us just need to copy paste into OverLeaf. On mac there isn't a good way to copy the content of a text file so showing the text for copying is way easier.
 12. in paper view on mac app, <kbd>⌘</kbd> + F does not work until you focus on the PDF viewer. This needs to be fixed.
+13. On the iPad, it would be good to allow free-form highlighting, then snap to the lines. Current way does not take advantage of the apple pencile.
 
 The UX needs to go through a full audit. There are many places where it is not smooth.
